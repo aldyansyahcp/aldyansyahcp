@@ -7,7 +7,7 @@
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="https://github.com/"><img title="EmailMe" src="https://img.shields.io/badge/EmailMe-aldyansyahcp@gmail.com-blue"></a></br>
     - 🀄 I`m can little speak English and Basic Japanese like かナ </br>
-    - 🎮 And im LostSaga player too, You can add me, Here my nickname <strong>LostSagaExotic: Kroemen</strong> & <strong>LostSagaOrigin: Ruprecht</strong></br>
+    - 🎮 And im LostSaga player too, You can add me, Here my nickname <strong>LostSagaExotic: Ruprechks</strong> & <strong>LostSagaOrigin: Ruprecht</strong></br>
     - 🐼 Nice to meet you!..
 </details>
 
