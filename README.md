@@ -1,13 +1,13 @@
-<h2> Hey There! <b> I am Aldyansyahcp</b></h2>
-
+<h2> Hey There! <b> My name is Aldyansyah Cahyo Putranto</b></h2>
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning Python Programming And I`m just learning for fun</br>
+    - 🌱 I’m currently learning Python Programming And I learn code just for fun</br>
     - 💬 Ask me about anything.</br>
+    - 🏠 I come from Solo, East Java, Indonesia
     - 📫 How to reach me: <a href="https://github.com/"><img title="EmailMe" src="https://img.shields.io/badge/EmailMe-aldyansyahcp@gmail.com-blue"></a></br>
-    - 🀄 I`m can little speak English and Basic Japanese like かナ </br>
-    - 🎮 And im LostSaga player too, You can add me, Here my nickname <strong>LostSagaExotic: Ruprechks</strong> & <strong>LostSagaOrigin: Ruprecht</strong></br>
+    - 🀄 I'm can little speak English and Basic Japanese like かナ </br>
+    - 🎮 And I LostSaga player too, You can add me, Here my nickname <strong>LostSagaExotic: Ruprechks</strong> & <strong>LostSagaOrigin: Ruprecht</strong></br>
     - 🐼 Nice to meet you!..
 </details>
 
