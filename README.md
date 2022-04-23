@@ -6,7 +6,7 @@
         <li> 🌱 I’m currently learning Programming And I learn code just for fun</br>
         <li> 💬 Ask me about anything.</br>
         <li> 🏠 I come from Solo, East Java, Indonesia. </br>
-        <li> 📫 How to reach me : <a href="https://github.com/"><img title="EmailMe" src="https://img.shields.io/badge/EmailMe: aldyansyahcp@gmail.com-blue"></a></br>
+        <li> 📫 How to reach me : <a href="https://gmail.com/"><img title="EmailMe" src="https://img.shields.io/badge/EmailMe: aldyansyahcp@gmail.com-blue"></a></br>
         <li> 🀄 I'm can little speak English and Basic Japanese like かナ </br>
         <li> 🎮 And I LostSaga player too, You can add me, Here my nickname <strong>LostSagaExotic: Ruprechks</strong> & <strong>LostSagaOrigin: Ruprecht</strong></br>
         <li> 🐼 Nice to meet you!..
