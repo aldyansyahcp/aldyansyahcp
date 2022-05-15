@@ -4,8 +4,8 @@
     <ul>
         <li> 👋 Hello My name is Aldyansyah Cahyo Putranto</br>
         <li> 🏠 I come from Solo, Central Java, Indonesia. </br>
-        <li> 📫 How to reach me : <a href="https://gmail.com/"><img title="EmailMe" src="https://img.shields.io/badge/EmailMe: aldyansyahcp@gmail.com-blue"></a></br>
-        <li> 🎮 And I LostSaga player too, You can add me, Here my nickname <strong>LostSagaExotic: Ruprechks</strong> & <strong>LostSagaOrigin: Ruprecht</strong></br>
+        <li> ⚡ I’m currently learning Python, Php, NodeJs. </br>
+        <li> 🚆 Fun fact Me: im LostSaga Player && i like some Mixing Audio </br>
     </ul>
 </details>
 
