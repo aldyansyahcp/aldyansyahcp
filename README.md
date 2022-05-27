@@ -4,7 +4,7 @@
     <ul>
         <li> 👋 Hello My name is Aldyansyah Cahyo Putranto</br>
         <li> 🏠 I come from Solo, Central Java, Indonesia. </br>
-        <li> ⚡ I’m currently learning Python, Php, NodeJs. </br>
+        <li> ⚡ I’m currently learning Python & Web Development. </br>
         <li> 🚆 Fun fact Me: im LostSaga Player && i like some Mixing Audio </br>
     </ul>
 </details>
