@@ -5,7 +5,7 @@
         <li> 👋 Hello My name is Aldyansyah Cahyo Putranto</br>
         <li> ⚡ I’m currently learning Python & Web Development. </br>
         <li> 🚆 Fun fact Me: im LostSaga Player && i like some Mixing Audio </br>
-        <li> 📱 Coding from phone Termux, my laptop got crash because LostSaga -_-</li>
+        <!--<li> 📱 Coding from phone Termux, my laptop got crash because LostSaga -_-</li>-->
     </ul>
 </details>
 
