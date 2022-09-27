@@ -11,7 +11,7 @@
 
 #### ⚙️ Languages
 <a href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/></a>
-<a href="https://www.ruby-lang.org/id/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/242px-Ruby_logo.svg.png" alt="Ruby" width="50" height="50"/></a>
+<!--<a href="https://www.ruby-lang.org/id/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/242px-Ruby_logo.svg.png" alt="Ruby" width="50" height="50"/></a>-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/></a>
 #### 🖥️ Software
 <a href="https://termux.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/8104776?s=200&v=4" alt="Javascript" width="50" height="50"/></a>
