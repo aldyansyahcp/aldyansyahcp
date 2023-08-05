@@ -1,13 +1,13 @@
-<h2> Hey There! <b></b></h2>
+<!--<h2> Hey There! <b></b></h2>
 <details>
  <summary><strong>Click here! An about me</strong></summary>
     <ul>
         <li> 👋 Hello My name is Aldyansyah Cahyo Putranto</br>
         <li> ⚡ I’m currently learning Python & Web Development. </br>
-        <!--<li> 🚆 Fun fact Me: im LostSaga Player && i like some Mixing Audio </br>-->
+        <!--<li> 🚆 Fun fact Me: im LostSaga Player && i like some Mixing Audio </br>
         <li> 📱 Coding from phone Termux, my laptop got crash because LostSaga -_-</li>
     </ul>
-</details>
+</details>-->
 
 <!--## ⚙️ Languages
 <a href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="100"/></a>
